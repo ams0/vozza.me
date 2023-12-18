@@ -192,7 +192,7 @@ params:
           enable: true
           name: "View the project"
           url: "https://solo.io"
-        content: "I joined [Solo.io](https://solo.io) as a platform advocate in December 2023. I enjoy the technical intensity, the amazing collegues and the opportunity to work with the community; this is my dream job and I love it!"
+        content: "I joined [Solo.io](https://solo.io) as a platform advocate in December 2022. I enjoy the technical intensity, the amazing collegues and the opportunity to work with the community; this is my dream job and I love it!"
 
       - job: "Principal Software Engineer"
         company: "Microsoft"
