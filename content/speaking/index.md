@@ -35,9 +35,15 @@ toc: false
 
 17-19 July 2024 - WeAreDevelopers World Congress 2024 (Berlin) - [Open Source Computing Sustainability: The CNCF Approach](https://sessionize.com/s/alessandrovozza/open-source-computing-sustainability-the-cncf-appr/98235)
 
-
 1st/2nd July - [KCD Munich](https://www.kcdmunich.de/) - [The Periodic Table of Cloud Native](https://docs.google.com/presentation/d/1N-584puZ0rqIaFXOQDUpvIYHvo9XnjUkM-_qyP_AaVw/edit?usp=sharing) - [Tickets](https://kcdmunich-2.ticketbutler.io/en/e/kcd-munich-2024/)
 
+### June
+
+20th June - [KCD Italy](https://community.cncf.io/events/details/cncf-kcd-italy-presents-kcd-italy-2024/) - [Ephemeral Clusters as a Service with ClusterAPI and GitOps](https://docs.google.com/presentation/d/1N-584puZ0rqIaFXOQDUpvIYHvo9XnjUkM-_qyP_AaVw/edit?usp=sharing) - [Tickets](https://kcdmunich-2.ticketbutler.io/en/e/kcd-munich-2024/)
+
+15th June - [WeMakeFuture](https://en.wemakefuture.it/next/speakers/) Bologna - Zero trust for cloud native applications: how service mesh can help you securing workloads
+
+## Past
 
 
 
